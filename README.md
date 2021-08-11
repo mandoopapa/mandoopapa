@@ -1,8 +1,16 @@
 ## Welcome! Mandoopapa's Repo
 
-- Skills
+- Vision
 
-![](https://img.shields.io/badge/-Golang-blue) ![](https://img.shields.io/badge/-Hyperleger%20Fabric-yellow) ![](https://img.shields.io/badge/-Python-orange) ![](https://img.shields.io/badge/-HTML-brightgreen)
+**BlockChain Developer**
+
+- Now Learning
+
+![](https://img.shields.io/badge/-Golang-blue) ![](https://img.shields.io/badge/-Hyperleger%20Fabric-red) ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-PHP-lightgrey) ![](https://img.shields.io/badge/-MySQL-orange)
+
+- Self-Study
+
+![](https://img.shields.io/badge/-Typescript-blue) ![](https://img.shields.io/badge/-AWS-yellow)
 
 - Interest
 
@@ -12,6 +20,7 @@
   - Cloud Service(AWS, Azure, Alibaba)
   - Co-operation
 
+***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoopapa&show_icons=true&theme=react&count_private=true)
 
