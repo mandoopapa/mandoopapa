@@ -14,11 +14,12 @@
 
 - Interest
 
-  - Open Source
-  - IT Device
-  - Make something New
+  - IT 기기
   - Cloud Service(AWS, Azure, Alibaba)
-  - Co-operation
+  - Open Source Co-operation
+
+- IT Certificate
+  - 정보처리기사 필기 합격!
 
 ***
 
