@@ -6,11 +6,11 @@
 
 - Now Learning
 
-![](https://img.shields.io/badge/-Golang-blue) ![](https://img.shields.io/badge/-Hyperleger%20Fabric-red) ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-PHP-lightgrey) ![](https://img.shields.io/badge/-MySQL-orange)
-
+<img src="https://img.shields.io/badge/-GO%20LANG-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/-Hyperledger%20Fabric-red?style=flat-square&logo=Hyperledger&logoColor=black"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=black"/> 
 - Self-Study
 
-![](https://img.shields.io/badge/-Typescript-blue) ![](https://img.shields.io/badge/-AWS-yellow)
+<img src="https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=Amazon aws&logoColor=black"/>
+
 
 - Interest
 
@@ -25,4 +25,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoopapa&show_icons=true&theme=react&count_private=true)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmandoopapa&count_bg=%236EB3E1&title_bg=%23259ECB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/-remonytea@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <a href="https://www.linkedin.com/in/jae-seong-lee-7550b152/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
