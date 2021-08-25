@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-GO%20LANG-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/-Hyperledger%20Fabric-red?style=flat-square&logo=Hyperledger&logoColor=black"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=black"/> 
 - Self-Study
 
-<img src="https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=Amazon aws&logoColor=black"/>
+<img src="https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=Amazon aws&logoColor=black"/>
 
 
 - Interest
