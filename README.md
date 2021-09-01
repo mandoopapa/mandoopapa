@@ -25,4 +25,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoopapa&show_icons=true&theme=react&count_private=true)
 
-<img src="https://img.shields.io/badge/-remonytea@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <a href="https://www.linkedin.com/in/jae-seong-lee-7550b152/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-remonytea@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
