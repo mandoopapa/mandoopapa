@@ -25,4 +25,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandoopapa&show_icons=true&theme=react&count_private=true)
 
+- Contact
+
 <img src="https://img.shields.io/badge/-remonytea@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
