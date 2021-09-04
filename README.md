@@ -21,8 +21,10 @@
 
   <br><br>
   
-#### 📲 Contact
+#### 📲 CONTACT
 
 <img src="https://img.shields.io/badge/-remonytea@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-<a href="mdpapa.tistory.com"><img src="https://img.shields.io/badge/-ITBlog-black?style=flat-square&logo=dev.to&logoColor=white"/></a>
+<a href="https://mdpapa.tistory.com"><img src="https://img.shields.io/badge/-ITBlog-black?style=flat-square&logo=dev.to&logoColor=white"/></a>
   </div>
+  
+<br>
