@@ -20,7 +20,6 @@
   
    <img src="https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=Amazon aws&logoColor=black"/> <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/-Hyperledger%20Fabric-red?style=flat-square&logo=Hyperledger&logoColor=white"/>
   <br><br>
   
 #### 📲 CONTACT
