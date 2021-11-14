@@ -31,6 +31,8 @@
 
 <a href="mailto:jslee@futuresense.co.kr"><img src="https://img.shields.io/badge/-jslee@futuresense.co.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://mdpapa.tistory.com"><img src="https://img.shields.io/badge/-ITBlog-black?style=flat-square&logo=dev.to&logoColor=white"/></a>
-  </div>
+<a href="https://www.linkedin.com/in/jae-seong-lee-7550b152/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> 
+</div>
+
   
 <br>
