@@ -20,10 +20,12 @@
   
    <img src="https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=Amazon aws&logoColor=black"/> <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
   
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  
   <br>
   
 #### 📖  Now Learning
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
   
   <br><br>
   
