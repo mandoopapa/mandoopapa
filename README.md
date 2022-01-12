@@ -27,13 +27,15 @@
 #### 📖  Now Learning
  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
   
-  <br><br>
+  <br>
 
 #### 📖  OS, Device
   <img src="https://img.shields.io/badge/-macos-000000?style=flat-square&logo=macos&logoColor=white"/>      M1 iMac 24 / M1 MacBook Pro 13.3
   <br>
    <img src="https://img.shields.io/badge/-windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>   Gigabyte Aero 17 HDR YD i7 
 
+  <br>
+  
 #### 📲 CONTACT
 
 <a href="mailto:jslee@futuresense.co.kr"><img src="https://img.shields.io/badge/-jslee@futuresense.co.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
