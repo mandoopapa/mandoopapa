@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Mandoopapa&fontSize=80&animation=fadeIn)
 
-### 👋Hi There, I'm Mandoopapa. and I am blockchain Developer in FutureSense.
+### 👋Hi There, I'm Mandoopapa. and I am blockchain Developer & Project Manager in FutureSense.
 
   <br>
   
@@ -25,7 +25,8 @@
 #### 📖  Now Learning
   
   <br>
-
+  NFT Marketplace
+  
 #### 📖  OS, Device
   <img src="https://img.shields.io/badge/-macos-000000?style=flat-square&logo=macos&logoColor=white"/>      M1 iMac 24
   <br>
