@@ -25,7 +25,7 @@
 #### 📖  Now Learning
   
   <br>
-  NFT Marketplace
+  Klaytn Service Chain, Ethereum L2
   
 #### 📖  OS, Device
   <img src="https://img.shields.io/badge/-macos-000000?style=flat-square&logo=macos&logoColor=white"/>      M1 iMac 24
