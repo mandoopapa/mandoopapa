@@ -28,16 +28,11 @@
   <br>
   English !!
   
-#### 📖  OS, Device
-  <img src="https://img.shields.io/badge/-macos-000000?style=flat-square&logo=macos&logoColor=white"/>      M1 iMac 24
-  <br>
-   <img src="https://img.shields.io/badge/-windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>   Gigabyte Aero 17 HDR YD i7 
-
   <br>
   
 #### 📲 CONTACT
 
-<a href="mailto:remonytea@naver.com"><img src="https://img.shields.io/badge/-remonytea@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mandoopapa@korea.ac.kr"><img src="https://img.shields.io/badge/-mandoopapa@korea.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://mdpapa.tistory.com"><img src="https://img.shields.io/badge/-ITBlog-black?style=flat-square&logo=dev.to&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jae-seong-lee-7550b152/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> 
 </div>
