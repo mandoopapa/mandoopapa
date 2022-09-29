@@ -26,8 +26,9 @@
 #### 📖  Now Learning
   
   <br>
-  English !!
-  
+<img src="https://img.shields.io/badge/-solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cryptography-003A70?style=flat-square&logo=Let's Encrypt&logoColor=white"/>
+
   <br>
   
 #### 📲 CONTACT
