@@ -2,12 +2,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Mandoopapa&fontSize=80&animation=fadeIn)
 
-### 👋Hi There, I'm Mandoopapa.
-#### I am a graduate student majoring in Blockchain.
+### 👋Hi There, I'm Max.
+#### I am a graduate student studying for a Master's degree in Blockchain
 
   <br>
   
-🎯 **Vision : A Communicative Blockchain Developer**
+🎯 **Vision : The blockchain expert everyone wants to work with**
   
   <br><br>
   
@@ -26,7 +26,7 @@
 #### 📖  Now Learning
   
   <br>
-<img src="https://img.shields.io/badge/-solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+  
 <img src="https://img.shields.io/badge/-Cryptography-003A70?style=flat-square&logo=Let's Encrypt&logoColor=white"/>
 
   <br>
