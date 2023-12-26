@@ -7,7 +7,7 @@
 
   <br>
   
-🎯 **Crypto Marketing Strategy team leader / Web3 specialized journalist**
+🎯 **Blockchain Generalist**
   
   <br><br>
   
