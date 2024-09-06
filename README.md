@@ -11,7 +11,7 @@
   
   <br>
     
-<a href="bit.ly/mandoopapa"><img src="https://custom-icon-badges.demolab.com/badge/portfolio-blue.svg?logo=repo"/></a>
+<a href="https://mandoopapa.notion.site/Hello-I-m-Max-Lee-0443a70ef78f48fcac888cdbf140617d"><img src="https://custom-icon-badges.demolab.com/badge/portfolio-blue.svg?logo=repo"/></a>
 
   <br>
   
