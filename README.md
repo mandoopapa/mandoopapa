@@ -3,13 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Mandoopapa&fontSize=80&animation=fadeIn)
 
 ### 👋Hi There, I'm Max.
-#### I am a graduate student studying for a Master's degree in Blockchain
+#### Blockchain enthusiast | Blockchain, Crypto, Web3, Privacy protection
 
   <br>
   
-🎯 **Blockchain Generalist**
+🎯 **Blockchain Expert**
   
-  <br><br>
+  <br>
+    
+<a href="bit.ly/mandoopapa"><img src="https://custom-icon-badges.demolab.com/badge/portfolio-blue.svg?logo=repo"/></a>
+
+  <br>
   
 #### ☑ TECH STACK ☑
 
